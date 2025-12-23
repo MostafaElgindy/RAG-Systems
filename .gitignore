@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+conda-env/
+environment.yml
+
+# Conda build / metadata
+conda-meta/
+DLLs/
+Library/
+Scripts/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.sqlite3
+data/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
