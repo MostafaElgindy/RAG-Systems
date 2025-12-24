@@ -8,6 +8,7 @@ chromadb
 sentence-transformers
 pypdf
 python-dotenv
+langchain_text_splitters 
 pymupdf
 unstructured
 pdfminer
